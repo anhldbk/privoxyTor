@@ -1,5 +1,4 @@
 ControlPort %s
-DataDirectory %s
 DirReqStatistics 0
 HashedControlPassword 16:4F5724399B203428606832CDCFB932DD6C388439BBCB8712A31285F755
 Log notice stdout
