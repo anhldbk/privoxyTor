@@ -12,7 +12,7 @@ Narrator:     In a project, I wanted to use multiple Tor connections to
 Usage:        Before running the demo accompanied with this script, you have
               to prepare prepare directory /abstract:
               1. Copy the installation of Tor to /abstract/tor
-              2. Copy /conf/tr to  /abstract/tor
+              2. Copy /conf/tor to  /abstract/tor
               3. Copy the installation of Privoxy to /abstract/privoxy
               4. Copy /conf/privoxy to  /abstract/privoxy
 
